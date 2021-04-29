@@ -3,7 +3,7 @@ This contains the files that were edited and coded in the Project 27 in Whitehat
 
 # ABOUT ME
 
-![My Image](swastik.png)
+![My Image](https://github.com/Swastik-WhitehatJR/Class-23/blob/main/swastik.png)
 
 - 👋 Hi, I’m [Swastik Bhattacharjee](https://github.com/Swastik-WhitehatJR).
 - 👀 I’m interested in Programming and designing.
